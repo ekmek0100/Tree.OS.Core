@@ -1,1 +1,3 @@
-#This is a main Tree OS file (ui) dont delete or change below if you are not edit Tree OS pls read license and readme.md
+#This is a main Tree OS file (ui) dont delete or change below if you are not edit Tree OS. please read license and readme.md
+import math
+boot = NA
