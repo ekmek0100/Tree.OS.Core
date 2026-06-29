@@ -15,8 +15,6 @@ class Window: #this line to 18th line is a shortcut to generate window
         print("-" * 20)
 def NewWindow(title, width, height, content=""):
    return Window(title, width, height, content)
-#end of shortcut code
-#how to use this shortcut: win1 = NewWindow("*window name*, *size(width)*, *size(height)*, "*content*")
 class WindowManager:
     def __init__(self):
         pygame.init()
@@ -41,3 +39,6 @@ class WindowManager:
         pygame.quit() 
 #end of shortcut code 
 win1 = NewWindow("amogus", 800, 600, "welcome")
+wm = WindowManager()
+vm.spawn("amogus", 800, 600, gg")
+vm.run()
