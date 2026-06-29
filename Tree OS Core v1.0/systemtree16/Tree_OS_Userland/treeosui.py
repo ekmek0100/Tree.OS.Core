@@ -39,4 +39,5 @@ class WindowManager:
                 
             pygame.display.flip()
         pygame.quit() 
- 
+#end of shortcut code 
+win1 = NewWindow("amogus", 800, 600, "welcome")
