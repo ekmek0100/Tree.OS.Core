@@ -1,3 +1,4 @@
+<img src="./Tree_os_asset_main_logo.svg" width="200" alt="Tree OS Logo">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="305" height="310.75" viewBox="0,0,305,310.75">
 <g transform="translate(-65.75,-18.75)">
 <g data-paper-data="{&quot;isPaintingLayer&quot;:true}" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" style="mix-blend-mode: normal">
