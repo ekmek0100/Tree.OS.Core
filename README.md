@@ -1,4 +1,4 @@
-<img src="./systemtree16/Userland/images/Tree_os_asset_main_logo.svg" width="200" alt="Tree OS Logo">
+<img src="systemtree16/Tree_OS_Userland/images/Tree_os_asset_main_logo.svg" width="200" alt="Tree OS Logo">
 
 0111 48 45 4C 4C 4F 57 4F 52 4C 44
 (it says HELLO WORLD in binary and hex)
